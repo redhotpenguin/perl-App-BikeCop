@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/App-BikeCop.t
+lib/App/BikeCop.pm
